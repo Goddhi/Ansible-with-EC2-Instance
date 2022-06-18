@@ -1,0 +1,1 @@
+Build a playbook that automates configuration of an EC2 instance by adapting manual instructions to Ansible Playbook tasks.
